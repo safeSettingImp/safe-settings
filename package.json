@@ -1,0 +1,9 @@
+{
+  "name": "safe-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "full-sync": "node src/full-sync.js"
+  },
+  "dependencies": {}
+}
